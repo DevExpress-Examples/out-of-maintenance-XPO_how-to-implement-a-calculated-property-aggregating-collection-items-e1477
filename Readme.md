@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataObjects.cs](./CS/DetailCollectionChanged/DataObjects.cs) (VB: [DataObjects.vb](./VB/DetailCollectionChanged/DataObjects.vb))
+* [Form1.cs](./CS/DetailCollectionChanged/Form1.cs) (VB: [Form1.vb](./VB/DetailCollectionChanged/Form1.vb))
+* [Program.cs](./CS/DetailCollectionChanged/Program.cs) (VB: [Program.vb](./VB/DetailCollectionChanged/Program.vb))
+<!-- default file list end -->
 # How to implement a calculated property aggregating collection items
 
 
