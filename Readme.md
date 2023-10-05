@@ -13,8 +13,12 @@
 # How to implement a calculated property aggregating collection items
 
 
-<p>This example demonstrates how to calculate a sum of associated objects and display it as a property of a parent object. In this example, the XtraGrid is used to display master-detail XPO objects. When the Amount property of a child object is changed, the parent object's Totals property is automatically updated.</p><p><strong>See Also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E305">How to calculate a master property based on values from a details collection</a></p>
+<p>This example demonstrates how to calculate a sum of associated objects and display it as a property of a parent object. In this example, the XtraGrid is used to display master-detail XPO objects. When the Amount property of a child object is changed, the parent object's Totals property is automatically updated.</p><p>
+  
+<strong>See Also:</strong><br />
+* [How to calculate a master property based on values from a details collection](https://www.devexpress.com/Support/Center/p/E305)
+* [How to get the maximum or minimum object's value from a collection](https://github.com/DevExpress-Examples/XPO_how-to-get-the-maximum-or-minimum-objects-value-from-a-collection-e468)
+* [Calculate a Property Value Based on Values from a Detail Collection](https://docs.devexpress.com/eXpressAppFramework/113179/business-model-design-orm/business-model-design-with-xpo/calculate-a-property-value-based-on-values-from-a-detail-collection)
 
 <br/>
 
